@@ -7,5 +7,5 @@ Algorithm Quiz 1
   <li>Submit a binary search example by adding a file to this project after forking it. Be sure to explain how the example functions using comments or in this README.</li>
   <li>Is a selection sort or a bubble sort faster?</li>
  </ol>
-1. A) Checks to see if the string is a palindrom by starting in the middle and spreading out on either side compairing the charters      to see if they match. They do not match so it returns false. 
+<li>1. A) Checks to see if the string is a palindrom by starting in the middle and spreading out on either side compairing the charters      to see if they match. They do not match so it returns false. 
 <li>3. A) Selection sort is faster than a bubble sort. 
